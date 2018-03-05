@@ -1,3 +1,5 @@
+// Пользователь вводит любое валидное значение int а в консоли получает вывод этого числа
+// на 7-сегментный дисплей https://prnt.sc/in5kmp
 package Introduction;
 import java.util.Scanner;
 

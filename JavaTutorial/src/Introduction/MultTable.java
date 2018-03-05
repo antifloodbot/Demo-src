@@ -1,3 +1,4 @@
+//Вывести на экран таблицу умножения
 public class MultTable {
 
     public static void main(String[] args) {
