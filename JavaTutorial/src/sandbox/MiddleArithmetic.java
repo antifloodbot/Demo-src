@@ -11,8 +11,8 @@ public class MiddleArithmetic {
         for (int a = 0; a <= 5; a++) {
             value = r.nextInt(10);
             System.out.print(value + " ");
-            sum = sum + value;
-            digitCounter = digitCounter + 1;
+            sum = sum + value; //calculate the sum of all digits
+            digitCounter = digitCounter + 1; // calculate the amount of digits
         }
         System.out.println();
         double result = sum * 1 / digitCounter;

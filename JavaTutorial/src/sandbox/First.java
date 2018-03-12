@@ -1,3 +1,5 @@
+package sandbox;
+
 public class First {
     public static void main(String[] args) {
         char b = 'b';

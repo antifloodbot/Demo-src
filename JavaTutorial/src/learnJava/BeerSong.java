@@ -1,3 +1,5 @@
+package learnJava;
+
 public class BeerSong {
     public static void main(String[] args) {
         int bottles = 2;
