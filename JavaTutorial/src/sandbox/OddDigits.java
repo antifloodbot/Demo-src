@@ -1,6 +1,6 @@
 package sandbox;
 
-import java.util.Random;
+        import java.util.Random;
 
 public class OddDigits {
     public static void main(String[] args) {
