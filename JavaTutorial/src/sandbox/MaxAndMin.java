@@ -9,7 +9,7 @@ public class MaxAndMin {
         int max = 0;
         int min = 15;
         for (int a = 0; a <= 15; a++) {
-            value = r.nextInt(10);
+            value = r.nextInt(100);
             System.out.print(value + " ");
             if (value > max)
                 max = value;
